@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.94.203.156:9090/akpatil/repository/repositories:insta-snapshot/</url>
+	      <url>http://3.94.203.156:9090/akpatil/repository/insta-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
