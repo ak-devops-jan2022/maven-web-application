@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>AK Patil Snapshot Nexus Repository </name>
-	      <url>http://3.93.146.151:9090/akpatil/repository/insta-snapshot/</url>
+	      <url>http://54.211.122.94:9090/akpatil/repository/insta-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
